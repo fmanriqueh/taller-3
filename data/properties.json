@@ -1,0 +1,68 @@
+{
+    "house" : [
+        {
+            "caption" : "Casa 1",
+            "canon"   : "1.000$",
+            "picture" : "assets/house-1.jpg"
+        },
+        {
+            "caption" : "Casa 2",
+            "canon"   : "1.100$",
+            "picture" : "assets/house-2.jpg"
+        },
+        {
+            "caption" : "Casa 3",
+            "canon"   : "900$",
+            "picture" : "assets/house-3.jpg"
+        },
+        {
+            "caption" : "Casa 4",
+            "canon"   : "1.500$",
+            "picture" : "assets/house-4.jpg"
+        },
+        {
+            "caption" : "Casa 5",
+            "canon"   : "1.100$",
+            "picture" : "assets/house-5.jpg"
+        }
+    ],
+    "apartment" : [
+        {
+            "caption" : "Apartamento 1",
+            "canon"   : "1.000$",
+            "picture" : "assets/apartment-1.jpg"
+        },
+        {
+            "caption" : "Apartamento 2",
+            "canon"   : "1.100$",
+            "picture" : "assets/apartment-2.jpg"
+        },
+        {
+            "caption" : "Apartamento 3",
+            "canon"   : "900$",
+            "picture" : "assets/apartment-3.jpg"
+        },
+        {
+            "caption" : "Apartamento 4",
+            "canon"   : "1.500$",
+            "picture" : "assets/apartment-4.jpg"
+        }
+    ],
+    "ranch" : [
+        {
+            "caption" : "Finca 1",
+            "canon"   : "5.000$",
+            "picture" : "assets/ranch-1.jpg"
+        },
+        {
+            "caption" : "Finca 2",
+            "canon"   : "5.500$",
+            "picture" : "assets/ranch-2.jpg"
+        },
+        {
+            "caption" : "Finca 3",
+            "canon"   : "5.100$",
+            "picture" : "assets/ranch-3.jpg"
+        }
+    ]
+}
